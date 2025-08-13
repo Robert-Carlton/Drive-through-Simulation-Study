@@ -1,4 +1,4 @@
-# Overview
+# Summary
 This study examined how a busy restaurant’s drive-thru operations could be improved to reduce traffic hazards caused by long vehicle queues spilling onto nearby roads. The restaurant, located near a major intersection, frequently experienced congestion during peak hours, raising the risk of accidents and increasing emissions from idling cars. Using video-based data collection and the ARENA simulation platform, I modeled customer flow through order, payment, and pickup stations.
 
 Several data collection methods were tested, including manual timing, automated computer vision tracking, and hybrid approaches, with manual tracking ultimately used to develop accurate arrival rate estimates. These arrival rates were validated against exponential distributions using statistical goodness-of-fit tests. The simulation tested how changes in staffing affected queue lengths and roadway encroachment.
@@ -7,7 +7,7 @@ Results showed that small, targeted staffing increases could dramatically reduce
 
 The methodology used in this study—combining real-world observational data, statistical validation of arrival patterns, and simulation modeling—can be applied to a wide range of scenarios beyond restaurant drive-thrus. Similar techniques could help optimize traffic flow at toll booths, ferry terminals, or event venue entrances where queuing can create safety hazards. They could also be used in logistics hubs, airport security lines, or border crossings to evaluate operational changes before implementation. By pairing accurate data collection with simulation, operators can test low-cost interventions—such as staffing adjustments, lane reconfiguration, or process sequencing—without disrupting real-world operations, leading to safer, more efficient systems.
 
-# Key Highlights
+# Highlights
 
 :heavy_check_mark: Problem: Long drive-thru queues at a busy intersection caused traffic hazards, potential accidents, and increased emissions.
 
